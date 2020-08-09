@@ -1,0 +1,22 @@
+fieldset
+{
+border-radius: 20px;
+
+}
+button
+{
+font-size: 20px;
+margin: auto;
+display: block;
+color: blueviolet;
+background-color:white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.background
+{
+background-color: blanchedalmond;
+}
+h1
+{
+    color: blueviolet;
+}
